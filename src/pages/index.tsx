@@ -56,7 +56,7 @@ const Home: BlitzPage = () => {
       <div className={styles.container}>
         <div className={styles.toastContainer}>
           <p>
-            <strong>Congrats!</strong> Your app is ready, including user sign-up and log-in.
+            <strong>Congrats2!</strong> Your app is ready, including user sign-up and log-in.
           </p>
         </div>
 
